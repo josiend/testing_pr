@@ -1,4 +1,4 @@
-# TESTING - PULL REQUEST
+# Testing Pull Request
 
 ## Tasks for Each Member
 
